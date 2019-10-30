@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1571165479 source:c:\users\dragos\desktop\coding (c si c++)\oop - facultate\proiect_nr12_dragos\nod.cpp
+	"nod.h"
+	<stddef.h>
+
+1571160680 c:\users\dragos\desktop\coding (c si c++)\oop - facultate\proiect_nr12_dragos\nod.h
+
+1572467312 source:c:\users\dragos\desktop\coding (c si c++)\oop - facultate\proiect_nr12_dragos\multime.cpp
+	"multime.h"
+	"nod.h"
+	<stddef.h>
+	<iostream>
+
+1572466086 c:\users\dragos\desktop\coding (c si c++)\oop - facultate\proiect_nr12_dragos\multime.h
+	"nod.h"
+	<iostream>
+
+1572466601 source:c:\users\dragos\desktop\coding (c si c++)\oop - facultate\proiect_nr12_dragos\main.cpp
+	"multime.h"
+	"Citire.h"
+	<iostream>
+
+1572467098 source:c:\users\dragos\desktop\coding (c si c++)\oop - facultate\proiect_nr12_dragos\citire.cpp
+	"Citire.h"
+
+1572466159 c:\users\dragos\desktop\coding (c si c++)\oop - facultate\proiect_nr12_dragos\citire.h
+	<iostream>
+	"multime.h"
+
